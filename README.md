@@ -9,7 +9,7 @@ LangGraph AI Agent is a FastAPI-based web application that integrates LangGraph,
 - **Groq LLMs**: Supports multiple Groq models (`llama3-70b-8192` and `mixtral-8x7b-32768`) for generating responses.
 - **Streamlit UI**: A user-friendly interface for interacting with the AI agent.
 
-![Application UI.jpg]([https://github.com/RahulKB31/SAM_AI_Model/blob/main/original%20image.jpg](https://github.com/RahulKB31/LangGraph_AI_Agent/blob/master/Screenshot%202025-01-02%20222353.jpg))
+![Screenshot 2025-01-02 222353.jpg]([https://github.com/RahulKB31/SAM_AI_Model/blob/main/original%20image.jpg](https://github.com/RahulKB31/LangGraph_AI_Agent/blob/master/Screenshot%202025-01-02%20222353.jpg))
 
 
 ## Prerequisites
