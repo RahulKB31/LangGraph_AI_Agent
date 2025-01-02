@@ -1,6 +1,3 @@
-Here is a clean and professional `README.md` file code for your LangGraph AI Agent project:
-
-```markdown
 # LangGraph AI Agent
 
 LangGraph AI Agent is a FastAPI-based web application that integrates LangGraph, LangChain, and Groq LLMs to create a powerful AI agent capable of interacting with users and fetching external search results using the Tavily API. The project also includes a Streamlit UI for a seamless user experience.
@@ -11,6 +8,9 @@ LangGraph AI Agent is a FastAPI-based web application that integrates LangGraph,
 - **Tavily Search**: Fetches external search results to enhance the agent's responses.
 - **Groq LLMs**: Supports multiple Groq models (`llama3-70b-8192` and `mixtral-8x7b-32768`) for generating responses.
 - **Streamlit UI**: A user-friendly interface for interacting with the AI agent.
+
+![Application UI.jpg]([https://github.com/RahulKB31/SAM_AI_Model/blob/main/original%20image.jpg](https://github.com/RahulKB31/LangGraph_AI_Agent/blob/master/Screenshot%202025-01-02%20222353.jpg))
+
 
 ## Prerequisites
 Before running the project, ensure you have the following:
@@ -129,6 +129,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - **LangChain** and **LangGraph** for their robust frameworks for building AI agents.
 
 Enjoy building and interacting with your LangGraph AI Agent! 🚀
-```
-
-This `README.md` file is professional, easy to follow, and includes all the necessary information about the setup, usage, and contribution guidelines. Make sure to replace the placeholders (like `your_groq_api_key`, `your_tavily_api_key`, and repository link) with actual values before using it.
